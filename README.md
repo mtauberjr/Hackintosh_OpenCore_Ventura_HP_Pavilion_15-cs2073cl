@@ -40,5 +40,7 @@ External ports
 Webcam
 HP Wide Vision HD Camera with integrated dual array digital microphone
 
+![image](https://github.com/mtauberjr/Hackintosh_OpenCore_Ventura_HP_Pavilion_15-cs2073cl/assets/284211/4b8da70e-6626-4709-8d59-9d4876f6c197)
+
 
 
