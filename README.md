@@ -1,0 +1,2 @@
+# Hackintosh_OpenCore_Ventura_HP_Pavilion_15-cs2073cl
+Hackintosh_OpenCore_Venura_HP_Pavilion_15-cs2073cl
